@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://achen2089.github.io/sitemap.xml
+Sitemap: https://Achen2089.github.io/sitemap.xml

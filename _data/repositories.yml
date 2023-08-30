@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Achen2089
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Achen2089/image-generator
+  - Achen2089/FB-Scraper

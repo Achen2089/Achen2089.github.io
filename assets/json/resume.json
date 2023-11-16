@@ -56,13 +56,25 @@
         "Designed a comprehensive dashboard that provided employees insight into the performance of a tool integral to Cisco’s compliance and risk management with third party software.",
         "Maintained and wrote important queries and scripts that helped manage and analyze complex data for different teams."
       ]
+    },
+    {
+      "name": "Santa Clara University Marketing and Communications",
+      "position": "Data Engineer Intern",
+      "url": "https://www.scu.edu/umc/",
+      "startDate": "2020-03-01",
+      "endDate": "2019-06-01",
+      "summary": "San Clara, CA",
+      "highlights": [
+        "Built an automated web scraper that can compile months worth of data from social media accounts of competing universities allowing the team to save thousands per month.",
+        "Created a dashboard that would automatically update based on the data that is automatically collected allowing for easily generated comprehensive reports."
+      ]
     }
     
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "Santa Clara University, Santa Clara, CA",
+      "institution": "Santa Clara University",
       "url": "https://www.scu.edu/",
       "area": "Computer Science and Mathematics",
       "studyType": "BS",
@@ -72,7 +84,21 @@
       "courses": [
         "Men's Rugby (SCUTS), ACM, and IEEE",
         "Teaching Assistant for Introduction to Computer Science (CSCI 10)",
-        "Research Assitant at The Ethical, Pragmatic, and Intelligent Computing Lab"
+        "Research Assitant at The Ethical, Pragmatic, and Intelligent Computing Lab",
+        "Research assistant at Anastasiu Lab SCU (Machine Learning)"
+      ]
+    },
+    {
+      "institution": "Georgia Institute of Technology",
+      "url": "https://www.gatech.edu/",
+      "area": "Computer Science",
+      "studyType": "OMSCS",
+      "startDate": "2023-08-01",
+      "endDate": "2025-06-01",
+      "score": "",
+      "courses": [
+        "Specialization in Machine Learning",
+        "Research assistant at Design and Intelligence Lab"
       ]
     }
   ],

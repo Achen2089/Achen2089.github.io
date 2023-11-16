@@ -5,5 +5,5 @@ title: resume
 nav: true
 nav_order: 4
 cv_pdf: ChenAnthony2023.pdf
-description: 
+description: Basic information of my experiences and education.
 ---
